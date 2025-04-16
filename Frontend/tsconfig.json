@@ -17,3 +17,6 @@
     "strictNullChecks": false
   }
 }
+
+// "extends": "./tsconfig.node.json"
+// 
